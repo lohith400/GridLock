@@ -1,0 +1,11 @@
+.DS_Store
+
+catboost_info/
+
+*.csv.bak
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+dataset/submission.csv
